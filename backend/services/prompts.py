@@ -1,7 +1,7 @@
 """
 AI Service Prompts - 集中管理所有 AI 服务的 prompt 模板
 """
-git initimport json
+import json
 import logging
 from textwrap import dedent
 from typing import List, Dict, Optional, TYPE_CHECKING
